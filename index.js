@@ -1,5 +1,8 @@
 function hasTargetSum(array, target) {
   // Write your algorithm here
+  const array= [1,3,6,4,8];
+  const 
+  
 }
 
 /* 
